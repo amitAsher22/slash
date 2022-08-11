@@ -1,0 +1,15 @@
+.titleMain {
+  text-align: center;
+}
+
+
+.cardsDiv {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+  justify-content: space-around;
+  align-items: center;
+  width: 90%;
+  gap: 3rem;
+
+}
